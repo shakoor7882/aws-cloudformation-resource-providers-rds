@@ -12,7 +12,7 @@
             "rds",
             "dbcluster"
         ],
-        "protocolVersion": "2.0.1"
+        "protocolVersion": "2.0.0"
     },
     "executableEntrypoint": "software.amazon.rds.dbcluster.HandlerWrapperExecutable"
 }
